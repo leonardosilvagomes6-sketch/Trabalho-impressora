@@ -1,4 +1,4 @@
-🖨️ Sistema de Automação Comercial - Impressora Térmica Elgin
+#🖨️ Sistema de Automação Comercial - Impressora Térmica Elgin
 📝 Descrição do Projeto
 Este software foi construído como requisito avaliativo para a disciplina de Algoritmos e Programação. Trata-se de uma aplicação console desenvolvida em Java projetada para gerenciar e enviar comandos para impressoras térmicas não fiscais da linha Elgin (modelos i8 e i9).
 
